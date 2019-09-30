@@ -1,7 +1,7 @@
 ## bmr_calculator
 
 ### Introduction: 
-To Develop a Basal Metabolic Rate (BMR) calculator using Flutter.
+To develop a Basal Metabolic Rate (BMR) calculator using Flutter.
 
 Reference: https://www.thecalculatorsite.com/health/bmr-calculator.php
 
